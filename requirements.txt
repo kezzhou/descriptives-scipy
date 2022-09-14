@@ -261,6 +261,7 @@ queuelib==1.5.0
 regex @ file:///opt/concourse/worker/volumes/live/92c80cd7-7907-4d3e-4d09-20e3cc1c2619/volume/regex_1648447728151/work
 requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
+researchpy==0.3.5
 rope @ file:///opt/conda/conda-bld/rope_1643788605236/work
 rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
 Rtree @ file:///opt/concourse/worker/volumes/live/18283f9b-719e-45b1-7f3a-937f49358be4/volume/rtree_1618420836397/work
@@ -296,8 +297,9 @@ SQLAlchemy @ file:///opt/concourse/worker/volumes/live/bfe20d71-b806-4187-4783-c
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///opt/concourse/worker/volumes/live/90a089a9-fdd6-4c7e-631b-5fdf9cf55d62/volume/statsmodels_1648033311105/work
 sympy @ file:///opt/concourse/worker/volumes/live/2af8c70b-e999-41ad-6ca8-39318707cbda/volume/sympy_1647854069899/work
+tableone==0.7.12
 tables @ file:///opt/concourse/worker/volumes/live/daa73f70-754b-4f28-73ce-6f96c40f4b9d/volume/pytables_1607975400838/work
-tabulate==0.8.9
+tabulate==0.8.10
 TBB==0.2
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity @ file:///opt/concourse/worker/volumes/live/c1132be6-ec8e-40b3-71ba-5221ee5cb84c/volume/tenacity_1626248300498/work
