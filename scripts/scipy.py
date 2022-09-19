@@ -75,6 +75,7 @@ groupby_gender.mean()
 
 ## in fact, by just applying .mean() to the function we defined with .groupby, we get a table of mean values across all columns with each Gender
 
+
 #### Exercise ####
 
 ## what is the mean value of VIQ for the whole population?
@@ -176,6 +177,7 @@ stats.wilcoxon(
 ## scipy.stats.mannwhitneyu() is the equivalent of the Wilcoxon for non-paired variables.
 ## it is not appropriate to use here
 
+
 #### Exercise ####
 
 ## test the difference between weights in males and females
@@ -257,6 +259,7 @@ data = pd.read_csv('examples/iris.csv')
 model = ols('sepal_width ~ name + petal_length', data).fit()
 
 print(model.summary())
+
 
 ## ANOVA testing
 
